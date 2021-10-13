@@ -1,0 +1,5 @@
+Payee ID,Payment Type,Payee/Beneficiary Name,Payment Date,Beneficiary Address 1,Beneficiary Address 2,Beneficiary City,Beneficiary State,Beneficiary Zip Code,Beneficiary Country,Invoice Number,Amount Paid,Invoice Date,Currency,ACH Type,Bank Name,Bank Address,Account number /or IBAN,Routing number /or BIC,For Further Credit To,Intermediary Bank,Intermediary Bank BIC,Intermediary Bank Address,Internal ID,Remittance
+9,ACH,Resources Global Professionals,09/07/2020,"Resources Global Professionals
+PO Box 740909
+Los Angeles CA 90074-0909
+United States",PO Box 740909,Los Angeles,CA,90074-0909,US,Bill #RGP0976822,6600,09/07/2020,USD,CCD,Bank of America Merril Lynch,Bank of America Merril Lynch,1233024344,121000358,,,,,9,Bill #RGP0976822
